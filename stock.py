@@ -5,8 +5,8 @@ import time
 
 class stock:
 
-    username = "conking"
-    password = "kingman1"
+    username = ""
+    password = ""
     #Here You can write down how much money You want to spend for option trading
     money=5000
     def __init__(self):
